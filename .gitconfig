@@ -5,6 +5,8 @@
     ci = commit
     co = checkout
     sw = switch
+    swc = switch -c
+    swm = switch master
     rs = restore
     br = branch
     r = reset
