@@ -122,7 +122,7 @@
 # }}}
 [user]
 	name = Gerry Manoim
-	email = gmanoim@quantopian.com
+	email = gerrymanoim@gmail.com
 [core]
 	excludesfile = /Users/gerrymanoim/.gitignore_global
 [filter "lfs"]
